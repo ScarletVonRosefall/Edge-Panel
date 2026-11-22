@@ -11,8 +11,8 @@ android {
         applicationId = "dev.inori.edgepanel"
         minSdk = 28
         targetSdk = 28          // Android 9; avoids newer restrictions
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 3
+        versionName = "1.2"
     }
 
     buildTypes {
