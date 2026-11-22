@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Edge Panel</string>
+    <string name="service_description">Shows a side panel with volume sliders, screenshot, lock screen and the power menu.</string>
+</resources>
